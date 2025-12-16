@@ -2,7 +2,8 @@
 
 **`Data Engineer`**
 
-Hi, I'm **Tulio Tome** — a Data Engineer with hands-on experience building scalable data pipelines and ETL workflows using **Python**, **Apache Spark**, and **Apache Airflow**. I work extensively with **SQL** and relational databases such as **SQL Server**, **Oracle**, and **PostgreSQL**.
+Hi, I'm **Tulio Tome**
+Data Engineer with hands-on experience building scalable data pipelines and ETL workflows using **Python**, **Apache Spark**, and **Apache Airflow**. I work extensively with **SQL** and relational databases such as **SQL Server**, **Oracle**, and **PostgreSQL**.
 
 I have a strong background in **AWS** cloud solutions and I’m familiar with real-time data processing using **Apache Kafka**. I also turn data into actionable insights through dashboards and reports using **Power BI** and **Tableau**.
 
