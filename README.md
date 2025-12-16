@@ -2,87 +2,33 @@
 
 **`Data Engineer`**
 
-Hi, I'm **Tulio Tome**
-
-Data Engineer with hands-on experience building scalable data pipelines and ETL workflows using **Python**, **Apache Spark**, and **Apache Airflow**. I work extensively with **SQL** and relational databases such as **SQL Server**, **Oracle**, and **PostgreSQL**.
+Hi, I'm **Tulio Tome** — a Data Engineer with hands-on experience building scalable data pipelines and ETL workflows using **Python**, **Apache Spark**, and **Apache Airflow**. I work extensively with **SQL** and relational databases such as **SQL Server**, **Oracle**, and **PostgreSQL**.
 
 I have a strong background in **AWS** cloud solutions and I’m familiar with real-time data processing using **Apache Kafka**. I also turn data into actionable insights through dashboards and reports using **Power BI** and **Tableau**.
-
-🔗 **LinkedIn:** [tuliotome](https://www.linkedin.com/in/tuliotome/)
 
 ---
 
 ## 🧰 Languages & Tools
 
-<img 
-  align="left" 
-  alt="Python"
-  title="Python" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="SQL"
-  title="SQL" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Apache Spark"
-  title="Apache Spark" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
-/>
+<p>
+  <img src="https://img.shields.io/badge/Python-1F4B99?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-2F5D8A?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-CB4B16?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-0F766E?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-BE8A00?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
 
-<!-- Kafka (OpenWhisk icon in dark mode + fallback for light mode) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" />
-  <img
-    align="left"
-    alt="Apache Kafka"
-    title="Apache Kafka"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
-  />
-</picture>
+### 📫 Contact
 
-<img 
-  align="left" 
-  alt="Apache Airflow"
-  title="Apache Airflow" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
-/>
-
-<!-- AWS -->
-<img 
-  align="left" 
-  alt="AWS"
-  title="AWS" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" 
-/>
-
-<!-- Power BI (Wikimedia Commons) -->
-<img
-  align="left"
-  alt="Power BI"
-  title="Power BI"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg"
-/>
-
-<br/>
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/tuliotome/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tuliotdct@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
